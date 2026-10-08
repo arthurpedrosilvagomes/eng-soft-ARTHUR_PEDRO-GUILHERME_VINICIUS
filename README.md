@@ -2,3 +2,4 @@
 
 Dupla: Arthur Pedro, Guilherme Vinícius;
 Curso: Ciência da Computação;
+Período: Segundo;
